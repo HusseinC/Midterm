@@ -1,5 +1,5 @@
 import java.lang.*;
-public class quraticsolver { 
+public class Quadraticicsolver { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
